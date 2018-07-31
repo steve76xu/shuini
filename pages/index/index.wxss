@@ -1,0 +1,14 @@
+/* pages/index/index.wxss */
+.single-view {
+     border:1px #dfdfdf solid; float:left; margin: 19px 0px 5px 2px; padding:10px; border-radius:5px; text-align: center; align-items: center;
+     height: 30px;
+     width: 40px
+    
+}
+.single-view image {
+    width:40px;
+    height: 40px
+}
+.single-view text {
+    font-size:30rpx; color:black;
+}

@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/qq/index",
+    "pages/constellation-detail/index",
+    
+    "pages/new/new"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#6A5ACD",
+    "navigationBarTitleText": "水逆了吗",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "selectedColor": "#556B2F",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "星座运势",
+        "iconPath": "pages/imgs/xz2.png",
+        "selectedIconPath": "pages/imgs/xz1.png"
+      },
+      {
+        "pagePath": "pages/qq/index",
+        "text": "QQ吉凶",
+        "iconPath": "pages/imgs/qq2.png",
+        "selectedIconPath": "pages/imgs/qq1.png"
+      },
+      {
+        "pagePath": "pages/new/new",
+        "text": "运势转盘",
+        "iconPath": "pages/imgs/history2.png",
+        "selectedIconPath": "pages/imgs/history1.png"
+      }
+    ]
+  }
+}
